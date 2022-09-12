@@ -1,0 +1,10 @@
+ body{
+ background:
+        /* top, transparent black, faked with gradient */ 
+        linear-gradient(
+          rgba(0, 0, 0, 0.7), 
+          rgba(0, 0, 0, 0.7)
+        ),
+        /* bottom, image */
+        url(https://images.unsplash.com/photo-1614030424754-24d0eebd46b2);
+    }
